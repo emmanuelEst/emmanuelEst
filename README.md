@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!<br>Learning web development through The Odin Project.<br>Currently know a bit of HTML, CSS, Javascript, and Ruby.<br>Plan on learning more Ruby ♦️ and learn Ruby on Rails 🛤.
+Hello!<br>Learning web development through The Odin Project.<br>Currently know a bit of HTML, CSS, Javascript, Python and Ruby.<br>Plan on learning more Ruby ♦️ and learn Ruby on Rails 🛤.
 
 
 # 💻 Tech Stack:
